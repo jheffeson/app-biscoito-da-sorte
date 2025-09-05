@@ -7,10 +7,6 @@ App que exibe frases motivacionais aleatórias ao "quebrar" um biscoito virtual.
 
 ## 🎯 Demonstração
 ![App em Funcionamento](./src/biscoito_sorte.gif)
-![IMG DO APP](./src/img1.png)
-![IMG DO APP](./src/img2.png)
-![IMG DO APP](./src/img3.png)
-
 
 ## 👨‍💻 Desenvolvimento
 - **Aluno**: Jheffeson Pereira Leal
